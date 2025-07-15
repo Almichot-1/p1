@@ -1,0 +1,190 @@
+{
+  "nav": {
+    "home": "الرئيسية",
+    "workers": "العاملات",
+    "contact": "اتصل بنا",
+    "language": "اللغة"
+  },
+  "hero": {
+    "title": "ابحث عن العاملة المثالية لمنزلك",
+    "subtitle": "تواصل مع العاملات المنزليات ذوات الخبرة والموثوقية من حول العالم",
+    "cta": "تصفح العاملات",
+    "stats": {
+      "totalWorkers": "إجمالي العاملات",
+      "availableWorkers": "العاملات المتاحات",
+      "completedBookings": "الحجوزات المكتملة"
+    }
+  },
+  "workers": {
+    "title": "عاملاتنا",
+    "subtitle": "تصفح العاملات المنزليات المؤهلات وذوات الخبرة",
+    "searchPlaceholder": "البحث بالاسم أو المهنة أو الجنسية...",
+    "filters": {
+      "profession": "المهنة",
+      "nationality": "الجنسية",
+      "status": "الحالة", 
+      "religion": "الديانة",
+      "maritalStatus": "الحالة الاجتماعية",
+      "ageRange": "الفئة العمرية",
+      "experience": "الخبرة",
+      "clear": "مسح الفلاتر"
+    },
+    "sort": {
+      "label": "ترتيب حسب",
+      "name": "الاسم",
+      "age": "العمر",
+      "experience": "الخبرة",
+      "newest": "الأحدث",
+      "salary": "الراتب"
+    },
+    "noResults": "لا توجد عاملات تطابق معايير البحث",
+    "loading": "جاري تحميل العاملات...",
+    "viewProfile": "عرض الملف الشخصي",
+    "book": "احجز الآن"
+  },
+  "workerCard": {
+    "yearsExp": "{{count}} سنوات خبرة",
+    "languages": "اللغات",
+    "skills": "المهارات",
+    "salaryExpectation": "الراتب المتوقع",
+    "currency": "ريال"
+  },
+  "workerProfile": {
+    "title": "الملف الشخصي للعاملة",
+    "basicInfo": "المعلومات الأساسية",
+    "personalDetails": "التفاصيل الشخصية",
+    "professionalInfo": "المعلومات المهنية",
+    "name": "الاسم",
+    "age": "العمر",
+    "nationality": "الجنسية",
+    "religion": "الديانة",
+    "maritalStatus": "الحالة الاجتماعية",
+    "profession": "المهنة",
+    "experience": "الخبرة",
+    "languages": "اللغات المحكية",
+    "skills": "المهارات والشهادات",
+    "salary": "الراتب المتوقع",
+    "status": "الحالة",
+    "backToList": "العودة إلى قائمة العاملات",
+    "bookWorker": "احجز هذه العاملة"
+  },
+  "bookingForm": {
+    "title": "حجز العاملة",
+    "workerInfo": "أنت تحجز:",
+    "personalInfo": "معلوماتك الشخصية",
+    "fullName": "الاسم الكامل",
+    "fullNamePlaceholder": "أدخل اسمك الكامل",
+    "phone": "رقم الهاتف",
+    "phonePlaceholder": "أدخل رقم هاتفك",
+    "email": "البريد الإلكتروني",
+    "emailPlaceholder": "أدخل بريدك الإلكتروني",
+    "address": "العنوان",
+    "addressPlaceholder": "أدخل عنوانك",
+    "bookingDetails": "تفاصيل الحجز",
+    "startDate": "تاريخ البدء المفضل",
+    "duration": "مدة العقد",
+    "durationOptions": {
+      "6months": "6 أشهر",
+      "1year": "سنة واحدة",
+      "2years": "سنتان",
+      "negotiable": "قابل للتفاوض"
+    },
+    "notes": "ملاحظات إضافية",
+    "notesPlaceholder": "أي متطلبات أو ملاحظات خاصة...",
+    "submit": "إرسال طلب الحجز",
+    "cancel": "إلغاء",
+    "success": "تم إرسال طلب الحجز بنجاح!",
+    "error": "خطأ في إرسال طلب الحجز. يرجى المحاولة مرة أخرى.",
+    "loading": "جاري الإرسال...",
+    "validation": {
+      "required": "هذا الحقل مطلوب",
+      "invalidEmail": "يرجى إدخال بريد إلكتروني صحيح",
+      "invalidPhone": "يرجى إدخال رقم هاتف صحيح"
+    }
+  },
+  "contact": {
+    "title": "اتصل بنا",
+    "subtitle": "تواصل مع فريقنا",
+    "info": {
+      "address": "العنوان",
+      "phone": "الهاتف",
+      "email": "البريد الإلكتروني",
+      "hours": "ساعات العمل"
+    },
+    "form": {
+      "name": "الاسم",
+      "email": "البريد الإلكتروني",
+      "subject": "الموضوع",
+      "message": "الرسالة",
+      "send": "إرسال الرسالة",
+      "success": "تم إرسال الرسالة بنجاح!",
+      "error": "خطأ في إرسال الرسالة. يرجى المحاولة مرة أخرى."
+    }
+  },
+  "footer": {
+    "description": "ووركرز هاب - منصتك الموثوقة للعثور على العاملات المنزليات ذوات الخبرة",
+    "quickLinks": "روابط سريعة",
+    "services": "الخدمات",
+    "contact": "معلومات الاتصال",
+    "copyright": "© 2024 ووركرز هاب. جميع الحقوق محفوظة."
+  },
+  "status": {
+    "available": "متاحة",
+    "booked": "محجوزة",
+    "onLeave": "في إجازة",
+    "pending": "في الانتظار",
+    "approved": "مقبول",
+    "rejected": "مرفوض"
+  },
+  "professions": {
+    "housemaid": "خادمة منزلية",
+    "cleaner": "عاملة تنظيف",
+    "cook": "طاهية",
+    "nanny": "مربية أطفال",
+    "caregiver": "مقدمة رعاية",
+    "driver": "سائقة",
+    "gardener": "عاملة حدائق",
+    "other": "أخرى"
+  },
+  "nationalities": {
+    "filipino": "فلبينية",
+    "indonesian": "إندونيسية",
+    "indian": "هندية",
+    "sriLankan": "سريلانكية",
+    "ethiopian": "إثيوبية",
+    "kenyan": "كينية",
+    "bangladeshi": "بنغلادشية",
+    "nepalese": "نيبالية",
+    "other": "أخرى"
+  },
+  "religions": {
+    "islam": "الإسلام",
+    "christianity": "المسيحية",
+    "hinduism": "الهندوسية",
+    "buddhism": "البوذية",
+    "other": "أخرى"
+  },
+  "maritalStatus": {
+    "single": "أعزب",
+    "married": "متزوج",
+    "divorced": "مطلق",
+    "widowed": "أرمل"
+  },
+  "common": {
+    "search": "بحث",
+    "filter": "فلتر",
+    "reset": "إعادة تعيين",
+    "apply": "تطبيق",
+    "cancel": "إلغاء",
+    "save": "حفظ",
+    "edit": "تعديل",
+    "delete": "حذف",
+    "confirm": "تأكيد",
+    "yes": "نعم",
+    "no": "لا",
+    "loading": "جاري التحميل...",
+    "error": "خطأ",
+    "success": "نجح",
+    "noData": "لا توجد بيانات"
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "nav": {
+    "home": "Home",
+    "workers": "Workers",
+    "contact": "Contact",
+    "language": "Language"
+  },
+  "hero": {
+    "title": "Find Your Perfect Domestic Worker",
+    "subtitle": "Connect with experienced and reliable domestic workers from around the world",
+    "cta": "Browse Workers",
+    "stats": {
+      "totalWorkers": "Total Workers",
+      "availableWorkers": "Available Workers",
+      "completedBookings": "Completed Bookings"
+    }
+  },
+  "workers": {
+    "title": "Our Workers",
+    "subtitle": "Browse through our verified and experienced domestic workers",
+    "searchPlaceholder": "Search by name, profession, or nationality...",
+    "filters": {
+      "profession": "Profession",
+      "nationality": "Nationality",
+      "status": "Status", 
+      "religion": "Religion",
+      "maritalStatus": "Marital Status",
+      "ageRange": "Age Range",
+      "experience": "Experience",
+      "clear": "Clear Filters"
+    },
+    "sort": {
+      "label": "Sort by",
+      "name": "Name",
+      "age": "Age",
+      "experience": "Experience",
+      "newest": "Newest",
+      "salary": "Salary"
+    },
+    "noResults": "No workers found matching your criteria",
+    "loading": "Loading workers...",
+    "viewProfile": "View Profile",
+    "book": "Book Now"
+  },
+  "workerCard": {
+    "yearsExp": "{{count}} years experience",
+    "languages": "Languages",
+    "skills": "Skills",
+    "salaryExpectation": "Salary Expectation",
+    "currency": "SAR"
+  },
+  "workerProfile": {
+    "title": "Worker Profile",
+    "basicInfo": "Basic Information",
+    "personalDetails": "Personal Details",
+    "professionalInfo": "Professional Information",
+    "name": "Name",
+    "age": "Age",
+    "nationality": "Nationality",
+    "religion": "Religion",
+    "maritalStatus": "Marital Status",
+    "profession": "Profession",
+    "experience": "Experience",
+    "languages": "Languages Spoken",
+    "skills": "Skills & Certifications",
+    "salary": "Salary Expectation",
+    "status": "Status",
+    "backToList": "Back to Workers",
+    "bookWorker": "Book This Worker"
+  },
+  "bookingForm": {
+    "title": "Book Worker",
+    "workerInfo": "You are booking:",
+    "personalInfo": "Your Information",
+    "fullName": "Full Name",
+    "fullNamePlaceholder": "Enter your full name",
+    "phone": "Phone Number",
+    "phonePlaceholder": "Enter your phone number",
+    "email": "Email Address",
+    "emailPlaceholder": "Enter your email address",
+    "address": "Address",
+    "addressPlaceholder": "Enter your address",
+    "bookingDetails": "Booking Details",
+    "startDate": "Preferred Start Date",
+    "duration": "Contract Duration",
+    "durationOptions": {
+      "6months": "6 Months",
+      "1year": "1 Year",
+      "2years": "2 Years",
+      "negotiable": "Negotiable"
+    },
+    "notes": "Additional Notes",
+    "notesPlaceholder": "Any specific requirements or notes...",
+    "submit": "Submit Booking Request",
+    "cancel": "Cancel",
+    "success": "Booking request submitted successfully!",
+    "error": "Error submitting booking request. Please try again.",
+    "loading": "Submitting...",
+    "validation": {
+      "required": "This field is required",
+      "invalidEmail": "Please enter a valid email address",
+      "invalidPhone": "Please enter a valid phone number"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch with our team",
+    "info": {
+      "address": "Address",
+      "phone": "Phone",
+      "email": "Email",
+      "hours": "Business Hours"
+    },
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send Message",
+      "success": "Message sent successfully!",
+      "error": "Error sending message. Please try again."
+    }
+  },
+  "footer": {
+    "description": "WorkersHub - Your trusted platform for finding experienced domestic workers",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "contact": "Contact Info",
+    "copyright": "© 2024 WorkersHub. All rights reserved."
+  },
+  "status": {
+    "available": "Available",
+    "booked": "Booked",
+    "onLeave": "On Leave",
+    "pending": "Pending",
+    "approved": "Approved",
+    "rejected": "Rejected"
+  },
+  "professions": {
+    "housemaid": "Housemaid",
+    "cleaner": "Cleaner",
+    "cook": "Cook",
+    "nanny": "Nanny",
+    "caregiver": "Caregiver",
+    "driver": "Driver",
+    "gardener": "Gardener",
+    "other": "Other"
+  },
+  "nationalities": {
+    "filipino": "Filipino",
+    "indonesian": "Indonesian",
+    "indian": "Indian",
+    "sriLankan": "Sri Lankan",
+    "ethiopian": "Ethiopian",
+    "kenyan": "Kenyan",
+    "bangladeshi": "Bangladeshi",
+    "nepalese": "Nepalese",
+    "other": "Other"
+  },
+  "religions": {
+    "islam": "Islam",
+    "christianity": "Christianity",
+    "hinduism": "Hinduism",
+    "buddhism": "Buddhism",
+    "other": "Other"
+  },
+  "maritalStatus": {
+    "single": "Single",
+    "married": "Married",
+    "divorced": "Divorced",
+    "widowed": "Widowed"
+  },
+  "common": {
+    "search": "Search",
+    "filter": "Filter",
+    "reset": "Reset",
+    "apply": "Apply",
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "confirm": "Confirm",
+    "yes": "Yes",
+    "no": "No",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "noData": "No data available"
+  }
+}
